@@ -29,7 +29,7 @@ import {installStyles, makeBodyVisible} from './styles';
 import {installErrorReporting} from './error';
 import {stubElements} from './custom-element';
 import {adopt} from './runtime';
-import {cssText} from '../build/css';
+import {cssText} from '../css';
 import {maybeValidate} from './validator-integration';
 import {waitForExtensions} from './render-delaying-extensions';
 
