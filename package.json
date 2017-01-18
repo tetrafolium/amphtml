@@ -22,6 +22,7 @@
     "promise-pjs": "0.2.5",
     "document-register-element": "0.5.4"
   },
+  "main": "src/amp.js",
   "devDependencies": {
     "autoprefixer": "6.1.1",
     "babel-core": "5.8.35",
